@@ -10,6 +10,6 @@ btn.addEventListener(`click`, () => {
   let reversed = replace.split(``).reverse().join(``);
 
   replace === reversed
-    ? (result.textContent = `${input.value} is a palindrome`)
-    : (result.textContent = `${input.value} is not a palindrome`);
+    ? (result.textContent = `${input.value} is a palindrome✅`)
+    : (result.textContent = `${input.value} is not a palindrome❌`);
 });
