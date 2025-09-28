@@ -7,9 +7,7 @@ A palindrome is something that reads the same forward and backward (ignoring spa
 
 ## 🚀 Live Demo
 
-👉 [Click here to preview](https://your-preview-link.com)
-
----
+## 👉 [Click here to preview](https://kateykwesi.github.io/palindrome_checker/)
 
 ## 🖥️ How to Use
 
